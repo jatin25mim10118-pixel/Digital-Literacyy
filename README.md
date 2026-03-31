@@ -43,7 +43,7 @@ Completed a beginner coding challenge on **HackerRank** and built a **Google For
 
 🔗 **Google Form Link:** [Add your Google Form link here]
 
-📁 See: [`task-3-platforms/`](./task-3-platforms/)
+📁 See: [`task-3-platforms/`](https://docs.google.com/forms/d/e/1FAIpQLSejBvu7JDs6aYa6oA7_PIM_FXT5mm-OfwjIjfblVsl4SSoFWQ/viewform?usp=publish-editor )
 
 ---
 
