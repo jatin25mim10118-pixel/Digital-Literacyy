@@ -10,9 +10,9 @@
 | **Name** | Jatin Yadav |
 | **Registration Number** | 25MIM10118 |
 | **Branch** | [Your Branch, e.g., CSE] |
-| **Year** | First Year B.Tech |
+| **Year** | First Year INt M.Tech |
 | **Course Code** | CSE0001 – Digital Literacy |
-| **Date of Submission** | [Date] |
+| **Date of Submission** | [31/03/26] |
 
 ---
 
